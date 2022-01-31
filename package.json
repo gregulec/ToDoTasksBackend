@@ -1,0 +1,14 @@
+{
+    "name": "todolist",
+    "devDependencies": {
+        "@types/node": "^10.0.0",
+        "@types/uuid": "^8.3.1"
+    },
+    "dependencies": {
+        "@pulumi/azure": "^4.15.0",
+        "@pulumi/azure-native": "^1.0.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "azure-storage": "^2.10.4",
+        "uuid": "^7.0.3"
+    }
+}
